@@ -1,0 +1,59 @@
+/* Google resmini ayarladim */
+
+.googleLogo {
+    width: 300px;
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Arama cubugu */
+
+.searchStick {
+    width: 400px;
+    line-height: 24px;
+    border-radius: 24px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid;
+    border-color: #dfe1e5;
+  
+}
+
+/* Arama butonu */
+
+ .searchButton { 
+    margin-top: 30px;
+    border: 1px solid #dfe1e5 ;
+    padding: 10px;
+    border-radius: 3px;
+    margin-right: 10px;
+    /* background-color: #dfe1e5; */
+} 
+
+.btnWrapper {
+   display: flex;
+   justify-content: center;
+}
+
+/* Twitter takip etme butonu */
+
+/* .searchButton {
+    border: 1px solid;
+    border-color: #cfd9de;
+    background-color: white;
+    color: #0f1419 ;
+    font-weight: bold;
+    border-radius: 19px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+} */
